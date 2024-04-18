@@ -146,18 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15c769d47f2dddf2",
+  "active": "3506b9a0b626258a",
   "lastOpenFiles": [
-    "Committing_changes_in_a_git_repository.md",
-    "Creating_a_git_repository_(repo).md",
+    "Images",
+    "Commands",
+    "Commands/Checking_the_status_of_files.md",
+    "Commands/Committing_changes_in_a_git_repository.md",
+    "Commands/Creating_a_git_repository_(repo).md",
     "The_basic_git_commands.md",
-    "Staging_changes_to_a_git_repository.md",
+    "Commands/Staging_changes_to_a_git_repository.md",
     "Getting_Started_With_Git_and_GitHub.md",
     "Installing_git_on_your_machine.md",
     "Map_of_Content.md",
-    "Git_Setup_change.png",
+    "Images/Git_Setup_change.png",
     "README.md",
-    "Download.png",
+    "Images/Download.png",
     "Screenshot 2024-04-18 at 10-46-39 vyas-research-group_Setup_Git this repo is for helping group memebers gettinig setup with github.png"
   ]
 }

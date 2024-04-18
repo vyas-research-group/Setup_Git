@@ -4,4 +4,5 @@
 
 ![[Committing_changes_in_a_git_repository]]
 
-# Checking the Status of files
+![[Checking_the_status_of_files]]
+
