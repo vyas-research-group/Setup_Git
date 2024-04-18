@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics_of_branching_and_merging.md",
+                "file": "Getting_Started_With_Git_and_GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics_of_branching_and_merging.md",
+                "file": "Getting_Started_With_Git_and_GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics_of_branching_and_merging.md"
+                "file": "Getting_Started_With_Git_and_GitHub.md"
               }
             }
           }
@@ -182,12 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35be605de7c76d7a",
+  "active": "ea514870a751ec71",
   "lastOpenFiles": [
-    "Deleting_a_branch.md",
-    "Commands/Merging_a_branch.md",
+    "README.md",
     "Getting_Started_With_Git_and_GitHub.md",
     "Basics_of_branching_and_merging.md",
+    "Commands/Deleting_a_branch.md",
+    "Commands/Merging_a_branch.md",
     "Commands/Switching_what_branch_you_are_on.md",
     "Commands/Checking_what_branch_you_are_on.md",
     "Commands/Making_a_branch.md",
@@ -196,7 +198,6 @@
     "Images/Git_Setup_change.png",
     "Commands/Checking_the_commit_log.md",
     "Images/git_log_oneline_output.png",
-    "README.md",
     "The_basic_git_commands.md",
     "Images/git_log_output.png",
     "Commands/Reverting_back_to_a_previous_commit.md",
