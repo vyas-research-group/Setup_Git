@@ -11,6 +11,8 @@ Below are some links to pages to help get you started:
 
 [[The_basic_git_commands]]
 
+[[Basics_of_branching_and_merging]]
+
 [[Setting_up_your_github]]
 
 [[Linking_your_machine_to_github]]

@@ -2,7 +2,9 @@
 
 Up and to the right of this repo there should be a ==Bright Green== "<> Code" button.
 The drop down from it will have a zip file download.
-![[Download.png]]
+
+![photo](https://github.com/vyas-research-group/Setup_Git/blob/main/Images/Download.png?raw=true)
+
 Once downloaded unzip the file into it's own directory.
 
 Everything else I will be demonstrating will be designed to be  shown in a vanilla obsidian vault. If you so not have obsidian you can download it for free [here](https://obsidian.md/download).
