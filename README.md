@@ -1,6 +1,6 @@
 # How to get this repo before you have git:
 
-Up and to the right of this repo there should be a "<> Code" button.
+Up and to the right of this repo there should be a ==Bright Green== "<> Code" button.
 The drop down from it will have a zip file download.
 ![[Download.png]]
 Once downloaded unzip the file into it's own directory.
