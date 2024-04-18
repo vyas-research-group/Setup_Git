@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Installing_git_on_your_machine.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Installing_git_on_your_machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Installing_git_on_your_machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Installing_git_on_your_machine.md"
               }
             }
           }
@@ -160,13 +160,16 @@
   },
   "active": "35be605de7c76d7a",
   "lastOpenFiles": [
+    "Images/Git_Setup_change.png",
+    "Commands/Checking_the_commit_log.md",
+    "Pasted image 20240418144103.png",
+    "Images/git_log_oneline_output.png",
+    "README.md",
     "Getting_Started_With_Git_and_GitHub.md",
     "The_basic_git_commands.md",
     "Installing_git_on_your_machine.md",
-    "Images/git_log_oneline_output.png",
     "Images/git_log_output.png",
     "Commands/Reverting_back_to_a_previous_commit.md",
-    "Commands/Checking_the_commit_log.md",
     "Images",
     "Commands",
     "Commands/Checking_the_status_of_files.md",
@@ -174,8 +177,6 @@
     "Commands/Creating_a_git_repository_(repo).md",
     "Commands/Staging_changes_to_a_git_repository.md",
     "Map_of_Content.md",
-    "Images/Git_Setup_change.png",
-    "README.md",
     "Images/Download.png",
     "Screenshot 2024-04-18 at 10-46-39 vyas-research-group_Setup_Git this repo is for helping group memebers gettinig setup with github.png"
   ]
