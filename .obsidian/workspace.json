@@ -13,36 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting_Started_With_Git_and_GitHub.md",
+                "file": "The_basic_git_commands.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e35a2b5f443801f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Installing_git_on_your_machine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "221ed328a5a5fb20",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Git_Setup_change.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Installing_git_on_your_machine.md",
+                "file": "The_basic_git_commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Installing_git_on_your_machine.md",
+                "file": "The_basic_git_commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Installing_git_on_your_machine.md"
+                "file": "The_basic_git_commands.md"
               }
             }
           }
@@ -169,11 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e35a2b5f443801f1",
+  "active": "15c769d47f2dddf2",
   "lastOpenFiles": [
+    "Committing_changes_in_a_git_repository.md",
+    "Creating_a_git_repository_(repo).md",
+    "The_basic_git_commands.md",
+    "Staging_changes_to_a_git_repository.md",
     "Getting_Started_With_Git_and_GitHub.md",
-    "Map_of_Content.md",
     "Installing_git_on_your_machine.md",
+    "Map_of_Content.md",
     "Git_Setup_change.png",
     "README.md",
     "Download.png",
