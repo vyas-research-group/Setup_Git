@@ -1,6 +1,8 @@
 Welcome! 
 This is the place to start if you have not used git before.
 
+All the information you could ever need is free for you to find online at [The Git Book](https://git-scm.com/book/en/v2). This repository is just the basics you might need to start off.
+
 Below are some links to pages to help get you started:
 
 [[Why_you_or_your_group_should_use_git]]

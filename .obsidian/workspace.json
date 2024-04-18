@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map_of_Content.md",
+                "file": "Getting_Started_With_Git_and_GitHub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e35a2b5f443801f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Installing_git_on_your_machine.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,11 +35,9 @@
             "id": "221ed328a5a5fb20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Getting_Started_With_Git_and_GitHub.md",
-                "mode": "source",
-                "source": false
+                "file": "Git_Setup_change.png"
               }
             }
           }
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting_Started_With_Git_and_GitHub.md",
+                "file": "Installing_git_on_your_machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting_Started_With_Git_and_GitHub.md",
+                "file": "Installing_git_on_your_machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting_Started_With_Git_and_GitHub.md"
+                "file": "Installing_git_on_your_machine.md"
               }
             }
           }
@@ -159,11 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "221ed328a5a5fb20",
+  "active": "e35a2b5f443801f1",
   "lastOpenFiles": [
-    "Map_of_Content.md",
-    "README.md",
     "Getting_Started_With_Git_and_GitHub.md",
+    "Map_of_Content.md",
+    "Installing_git_on_your_machine.md",
+    "Git_Setup_change.png",
+    "README.md",
     "Download.png",
     "Screenshot 2024-04-18 at 10-46-39 vyas-research-group_Setup_Git this repo is for helping group memebers gettinig setup with github.png"
   ]
