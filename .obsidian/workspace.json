@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15c769d47f2dddf2",
+            "id": "35be605de7c76d7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,14 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3506b9a0b626258a",
+  "active": "35be605de7c76d7a",
   "lastOpenFiles": [
+    "Images/git_log_oneline_output.png",
+    "Images/git_log_output.png",
+    "The_basic_git_commands.md",
+    "Commands/Reverting_back_to_a_previous_commit.md",
+    "Commands/Checking_the_commit_log.md",
     "Images",
     "Commands",
     "Commands/Checking_the_status_of_files.md",
     "Commands/Committing_changes_in_a_git_repository.md",
     "Commands/Creating_a_git_repository_(repo).md",
-    "The_basic_git_commands.md",
     "Commands/Staging_changes_to_a_git_repository.md",
     "Getting_Started_With_Git_and_GitHub.md",
     "Installing_git_on_your_machine.md",
