@@ -19,6 +19,7 @@ Below are some links to pages to help get you started:
 
 [[clone_pushing_and_pulling_to_github]]
 
-[[Github_Issues]]
+[[Github_issues]]
 
 [[Github_projects]]
+
