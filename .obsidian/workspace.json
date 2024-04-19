@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35be605de7c76d7a",
+            "id": "ea514870a751ec71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Installing_git_on_your_machine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "928acf3ce52a2b66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Installing_git_on_your_machine.md",
+                "file": "Getting_Started_With_Git_and_GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Installing_git_on_your_machine.md",
+                "file": "Getting_Started_With_Git_and_GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Installing_git_on_your_machine.md",
+                "file": "Getting_Started_With_Git_and_GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Installing_git_on_your_machine.md"
+                "file": "Getting_Started_With_Git_and_GitHub.md"
               }
             }
           }
@@ -158,16 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35be605de7c76d7a",
+  "active": "ea514870a751ec71",
   "lastOpenFiles": [
+    "Pasted image 20240418144103.png",
+    "Basics_of_branching_and_merging.md",
+    "Getting_Started_With_Git_and_GitHub.md",
+    "Linking_your_machine_to_github.md",
+    "Images/Add_SSH_Key_Page.png",
+    "Images/SSH_Key_Page.png",
+    "Images/Profile_Dropdown_Menu.png",
+    "Setting_up_your_github.md",
+    "Commands/Checking_what_branch_you_are_on.md",
+    "README.md",
+    "Commands/Deleting_a_branch.md",
+    "Commands/Merging_a_branch.md",
+    "Commands/Switching_what_branch_you_are_on.md",
+    "Commands/Making_a_branch.md",
+    "Installing_git_on_your_machine.md",
     "Images/Git_Setup_change.png",
     "Commands/Checking_the_commit_log.md",
-    "Pasted image 20240418144103.png",
     "Images/git_log_oneline_output.png",
-    "README.md",
-    "Getting_Started_With_Git_and_GitHub.md",
     "The_basic_git_commands.md",
-    "Installing_git_on_your_machine.md",
     "Images/git_log_output.png",
     "Commands/Reverting_back_to_a_previous_commit.md",
     "Images",
