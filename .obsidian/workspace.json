@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clone_pushing_and_pulling_to_github.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clone_pushing_and_pulling_to_github.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clone_pushing_and_pulling_to_github.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clone_pushing_and_pulling_to_github.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3506b9a0b626258a",
+  "active": "ea514870a751ec71",
   "lastOpenFiles": [
+    "Clone_pushing_and_pulling_to_github.md",
     "Commands/Pushing_to_a_github_repository.md",
     "Commands/Pulling_from_a_github_repository.md",
     "Commands/Remotes_and_git.md",
     "Commands/Cloning_a_github_repository.md",
     "Clone_A_Repo.png",
     "Getting_Started_With_Git_and_GitHub.md",
-    "Clone_pushing_and_pulling_to_github.md",
     "Installing_git_on_your_machine.md",
     "Setting_up_your_github.md",
     "Linking_your_machine_to_github.md",
