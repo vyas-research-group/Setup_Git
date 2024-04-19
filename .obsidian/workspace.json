@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting_Started_With_Git_and_GitHub.md",
+                "file": "Clone_pushing_and_pulling_to_github.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting_Started_With_Git_and_GitHub.md",
+                "file": "Clone_pushing_and_pulling_to_github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting_Started_With_Git_and_GitHub.md",
+                "file": "Clone_pushing_and_pulling_to_github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting_Started_With_Git_and_GitHub.md"
+                "file": "Clone_pushing_and_pulling_to_github.md"
               }
             }
           }
@@ -146,8 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea514870a751ec71",
+  "active": "3506b9a0b626258a",
   "lastOpenFiles": [
+    "Commands/Pushing_to_a_github_repository.md",
+    "Commands/Pulling_from_a_github_repository.md",
+    "Commands/Remotes_and_git.md",
+    "Commands/Cloning_a_github_repository.md",
+    "Clone_A_Repo.png",
+    "Getting_Started_With_Git_and_GitHub.md",
+    "Clone_pushing_and_pulling_to_github.md",
+    "Installing_git_on_your_machine.md",
     "Setting_up_your_github.md",
     "Linking_your_machine_to_github.md",
     "Images/SSH_Key_Page.png",
@@ -159,10 +167,8 @@
     "Commands/Checking_what_branch_you_are_on.md",
     "Basics_of_branching_and_merging.md",
     "Pasted image 20240418144103.png",
-    "Getting_Started_With_Git_and_GitHub.md",
     "README.md",
     "Commands/Deleting_a_branch.md",
-    "Installing_git_on_your_machine.md",
     "Images/Git_Setup_change.png",
     "Commands/Checking_the_commit_log.md",
     "Images/git_log_oneline_output.png",

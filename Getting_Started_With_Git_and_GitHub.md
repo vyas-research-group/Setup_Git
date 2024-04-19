@@ -17,7 +17,7 @@ Below are some links to pages to help get you started:
 
 [[Linking_your_machine_to_github]]
 
-[[clone_pushing_and_pulling_to_github]]
+[[Clone_pushing_and_pulling_to_github]]
 
 [[Github_issues]]
 
