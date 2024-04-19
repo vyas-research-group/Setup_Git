@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting_Started_With_Git_and_GitHub.md",
+                "file": "Linking_your_machine_to_github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3f2017d67da339b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting_up_your_github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1df48ce2658fdab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linking_your_machine_to_github.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting_Started_With_Git_and_GitHub.md",
+                "file": "Linking_your_machine_to_github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting_Started_With_Git_and_GitHub.md",
+                "file": "Linking_your_machine_to_github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting_Started_With_Git_and_GitHub.md"
+                "file": "Linking_your_machine_to_github.md"
               }
             }
           }
@@ -185,13 +209,15 @@
   },
   "active": "ea514870a751ec71",
   "lastOpenFiles": [
-    "README.md",
     "Getting_Started_With_Git_and_GitHub.md",
+    "Setting_up_your_github.md",
+    "Commands/Checking_what_branch_you_are_on.md",
+    "Linking_your_machine_to_github.md",
     "Basics_of_branching_and_merging.md",
+    "README.md",
     "Commands/Deleting_a_branch.md",
     "Commands/Merging_a_branch.md",
     "Commands/Switching_what_branch_you_are_on.md",
-    "Commands/Checking_what_branch_you_are_on.md",
     "Commands/Making_a_branch.md",
     "Pasted image 20240418144103.png",
     "Installing_git_on_your_machine.md",
