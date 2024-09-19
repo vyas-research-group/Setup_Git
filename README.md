@@ -22,5 +22,5 @@ There is ample documentation online for markdown and [Obsidian flavored Markdown
 
 # Where to start in this repo
 
-If you are completely new to using git and github in the group I encourage you to go to the file [[Getting_Started_With_Git_and_GitHub]]. 
-If you have completed some basics and are looking for something specific a good place to start might be the [[Map_of_Content]].
+If you are completely new to using git and github in the group I encourage you to go to the file [Getting_Started_With_Git_and_GitHub](Getting_Started_With_Git_and_GitHub.md). 
+If you have completed some basics and are looking for something specific a good place to start might be the [Map_of_Content](Map_of_Content.md).
